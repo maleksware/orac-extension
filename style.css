@@ -1,0 +1,18 @@
+p {
+    font-family: 'Space Mono', monospace;
+    font-size: 13px;
+    margin: 0;
+    width: 150px;
+}
+
+#solved {
+    color: #088e1a;
+}
+
+#tried {
+    color: #ac7319;
+}
+
+#available {
+    color: #313131;
+}
