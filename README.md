@@ -6,6 +6,14 @@ Not available for Firefox at the moment. If you want it to, consider creating a 
 
 ### Installation
 
+##### Stable (recommended)
+
+1. Download .crx file from the latest release
+2. Enable development mode in Chrome
+3. Drag'n'drop the file you downloaded to chrome://extensions
+
+##### From source
+
 1. Clone the repository
 2. Enable development mode in Chrome
 3. Go to chrome://extensions and click "Load unpacked extension", then choose the folder you cloned.
